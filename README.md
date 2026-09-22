@@ -12,6 +12,13 @@
   <strong>Current release:</strong> 0.9.3 Build 63 · <strong>Requires:</strong> iOS 27+
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-27%2B-blue" alt="iOS 27+">
+  <img src="https://img.shields.io/badge/UI-SwiftUI-orange" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Current-Build%2063-lightgrey" alt="Current Build 63">
+  <img src="https://img.shields.io/badge/License-PolyForm%20NC%201.0.0-blue" alt="PolyForm Noncommercial 1.0.0">
+</p>
+
 ## About
 
 Roam Control is an iPhone app for location-based development, quality assurance and responsible personal testing on a device you own and control.
@@ -19,6 +26,27 @@ Roam Control is an iPhone app for location-based development, quality assurance 
 It supports fixed reported locations, simulated walking routes, favourites, history, on-device pairing and guided LocalDevVPN-compatible sessions.
 
 Roam Control is distributed as a prebuilt IPA. The application source code is not publicly distributed.
+
+## Screenshots
+
+<p align="center">
+  <img src="Documentation/Images/README/roam-welcome.png" width="240" alt="Roam Control welcome screen">
+  <img src="Documentation/Images/README/roam-fixed-location.png" width="240" alt="Selecting a fixed location in London">
+  <img src="Documentation/Images/README/roam-walking-preview.png" width="240" alt="Walking route preview">
+</p>
+
+<p align="center">
+  <sub>Welcome · Fixed location · Walking route</sub>
+</p>
+
+<p align="center">
+  <img src="Documentation/Images/README/roam-manual-route.png" width="240" alt="Building a manual walking route">
+  <img src="Documentation/Images/README/roam-connection-health.png" width="240" alt="Connection Health and Manual Diagnostics">
+</p>
+
+<p align="center">
+  <sub>Manual route drawing · Connection Health</sub>
+</p>
 
 ## Features
 
