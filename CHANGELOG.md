@@ -4,6 +4,15 @@ Public-facing changes to Roam Control are recorded here.
 
 Detailed internal engineering notes are maintained privately.
 
+## 0.9.3 - Build 63
+
+- Added manual walking-route drawing, including a fallback where Apple walking directions are unavailable.
+- Improved walking-route planning and active-session routing behaviour.
+- Fixed selected destinations being lost when drawing a route during an active simulated-location session.
+- Improved route-planning controls and map recenter behaviour.
+- Prevented duplicate walking-route error presentation.
+- Resolved the mainland China location-selection offset reported in issue #8.
+
 ## 0.9.2 - Build 61
 
 Promoted to the main public release on 16 September 2026.

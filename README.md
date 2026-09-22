@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Current release:</strong> 0.9.2 Build 61 · <strong>Requires:</strong> iOS 27+
+  <strong>Current release:</strong> 0.9.3 Build 63 · <strong>Requires:</strong> iOS 27+
 </p>
 
 ## About
