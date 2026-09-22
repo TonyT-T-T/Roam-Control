@@ -37,9 +37,9 @@ Detailed internal engineering notes are maintained privately.
 - Improved map recenter behaviour so it follows the relevant real or simulated location for the current session.
 - Refined floating map-control placement across route-planning, route-preview and manual-drawing states.
 
-### Location accuracy
+### Known issue
 
-- Resolved a location-selection accuracy issue that could place searched or selected locations several hundred metres away from the intended position.
+- A region-specific location-selection issue can still cause searched or selected locations to appear several hundred metres away from the intended position in some configurations. Investigation is ongoing.
 
 ### Diagnostics and updates
 
